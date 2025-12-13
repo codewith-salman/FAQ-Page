@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="FAQ Page Logo" width="120" />
-
-<br /><br />
-
 ## ❓ FAQ Page  
 A clean, modern, and interactive **Frequently Asked Questions (FAQ) Page** built using HTML, CSS, and JavaScript.  
 Designed to present common questions and answers in a clear, accessible, and user-friendly layout.

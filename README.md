@@ -1,6 +1,4 @@
 <div id="top"></div>
-
-<br />
 <div align="center">
 
 ## ❓ FAQ Page  
@@ -39,7 +37,6 @@ Perfect for:
 - Fully responsive design  
 - Minimal and modern UI  
 - Easy to customize questions and answers  
-- Lightweight and fast-loading component  
 
 ---
 

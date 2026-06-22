@@ -64,8 +64,7 @@ Ideal for:
 ## ✨ Features
 
 - Interactive accordion-style FAQ layout  
-- Smooth open/close animations  
-- Clean and readable typography  
+- Smooth open/close animations   
 - Fully responsive design  
 - Minimal and modern UI  
 - Easy to customize questions and answers  

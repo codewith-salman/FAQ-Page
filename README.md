@@ -53,8 +53,7 @@ This project demonstrates front-end skills such as **interactive UI behavior, cl
 It’s an ideal component for websites like **product pages, service websites, SaaS platforms, and support sections**.
 
 Ideal for:
-- Website help & support sections  
-- Product and SaaS FAQs  
+- Website help & support sections   
 - Service-based websites  
 - UI/UX practice components  
 - Portfolio demonstrations  
